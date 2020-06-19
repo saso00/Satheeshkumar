@@ -1,2 +1,0 @@
-# Satheeshkumar
-first_repo
